@@ -11,12 +11,24 @@
 </head>
 <body>
  <!--Heading Contents-->
-    <header class="container">
+    <header class="container-fluid">
         <h1>Worship Centre</h1>
 
         <div>Logo</div>
 
-        <nav>
+        <nav class="row offset-6">
+            <div class="col-12 col-sm-6 col-md-4 col-lg-3 ">
+            <a href="#">Home</a>
+           </div>
+           <div  class="col-12 col-sm-6 col-md-4 col-lg-3">
+            <a href="#">Teachings</a>
+           </div>
+           <div  class="col-12 col-sm-6 col-md-4 col-lg-3">
+            <a href="#">Activities</a>
+           </div>
+           <div  class="col-12 col-sm-6 col-md-4 col-lg-3">
+            <a href="#">Location</a>
+          </div>
 
         </nav>
 
@@ -25,11 +37,13 @@
 
     <!--Main Contents-->
 
-    <article class="article-bg container">
+    <article class="article-bg container-fluid">
 
+     <div class="jumbotron">
         <h2>About Us</h2>
+<div class="row">
 
-<section id="worship">
+<section id="worship" class="col-12 col-sm-6 col-md-4 col-lg-3">
 
 <h3>Worship Sessions</h3>
 <div>
@@ -41,13 +55,21 @@
 </div>
 </section>
 
-<div id="who-we-are">
+<section id="who-we-are" class="col-12 col-sm-6 col-md-4 col-lg-3">
+
+<div >
     <h3>Who we are ?</h3>
-    <p>Introducing text....</p>
+    <p>Introducing text....Lorem ipsum dolor sit amet, 
+        consectetur adipiscing elit, sed do eiusmod tempor 
+        incididunt ut labore et dolore magna aliqua. Ut enim
+         ad minim veniam, quis nostrud exercitation ullamco 
+         laboris nisi ut aliquip ex ea commodo consequat.
+        </p>
 </div>
 
+</section>
 
-<section id="therapy">
+<section id="therapy" class="col-12 col-sm-6 col-md-4 col-lg-3">
 <h3>Theurapy Sessions</h3> 
 <div>
     <ul>
@@ -57,12 +79,15 @@
     </ul>
 </div>
 </section>
-
+</div>
+</div>
     </article>
 
 <!--Footer Box-->
 
-    <footer>
+    <footer class="container-fluid">
+
+
 
     </footer>
 
