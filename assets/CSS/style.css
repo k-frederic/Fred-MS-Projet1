@@ -7,8 +7,14 @@
      background-size: cover;
      background-repeat: no-repeat;
      background-position: center;
+     position: fixed;
+     z-index: 1;
 
+  }
 
+  article {
+
+    padding-top: 300px;
   }
 
    body {
@@ -17,6 +23,7 @@
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
+    
     
     
 
@@ -29,8 +36,9 @@
     background-image: url(/assets/images/water-color.jpg);
     background-size: cover;
     position: relative;
-
+   
     border-radius: 20%;
+    z-index: 0;
 
 
     
@@ -41,9 +49,10 @@
     width: 27rem;
     background-image: url(/assets/images/water-color.jpg);
     background-size: cover;
-    position: relative;
+    position: relative ;
 
     border-radius: 20%;
+    z-index: 0;
 
 }
 
@@ -55,7 +64,7 @@
     position: relative;
 
     border-radius: 20%;
-    
+    z-index: 0;
     
 }
 
