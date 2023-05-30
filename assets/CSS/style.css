@@ -1,10 +1,22 @@
 
     
+   header {
+    background-color: rgb(140, 185, 236);
+     position: relative;
 
+
+  }
+
+   #article-bg {
+    background-color: aquamarine;
+    width: 100%;
+    height: 100%;
+   
+  }
 
 #worship {
-    height: 16em;
-    width: 27em;
+    height: 25rem;
+    width: 27rem;
     background-color: rgb(197, 155, 237);
 
     position: relative;
@@ -16,23 +28,25 @@
 }
 
 #who-we-are {
-    height: 16em;
-    width: 27em;
+    height: 25rem;
+    width: 27rem;
     background-color: rgb(197, 155, 237);
 
     position: relative;
 
     border-radius: 20%;
+
 }
 
 #therapy {
-    height: 16em;
-    width: 27em;
+    height: 25rem;
+    width: 27rem;
     background-color: rgb(197, 155, 237);
 
     position: relative;
 
     border-radius: 20%;
+    
     
 }
 
@@ -42,12 +56,21 @@ ul {
     margin: 0;
 }
 
+
+
+
 .footer-box {
     position: fixed;
     bottom: 0;
     width: 100%;
     background-color: rgb(207, 179, 233);
     text-align: center;
-    height: 13%;
+    height: 10%;
+
     
 }
+.active {
+  
+    background-color: #ca85d8;
+}
+ 
