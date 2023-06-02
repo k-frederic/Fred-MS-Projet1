@@ -44,7 +44,8 @@
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    
+   
+    text-transform: uppercase;
     
     
 
@@ -118,3 +119,7 @@ ul {
     background-color: #ca85d8;
 }
  
+#footer-container {
+    
+    
+}
