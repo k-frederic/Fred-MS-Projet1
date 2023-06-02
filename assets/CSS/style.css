@@ -4,7 +4,7 @@
 
    header {
     background-image: url(/assets/images/studio-background.jpg);
-
+    color:  #5c0c6c;
      background-attachment: fixed;
      background-size: cover;
      background-repeat: no-repeat;
@@ -17,11 +17,14 @@
 
   #nav-links .active {
     background-color: #a326bc;
-   
+    font-weight: bold;
+    font-size: medium;
   
   }
 
-  #nav-links .active:hover {}
+  #nav-links .active:hover {
+    color: blue;
+  }
 
   img {
     position: inherit;
@@ -32,9 +35,9 @@
    position: relative;
    top: 50px;
   }
-
+/*-----------------Main content---*/
   article {
-
+    color:  #5c0c6c;
     padding-top: 200px;
   }
 
@@ -44,11 +47,9 @@
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-   
-    text-transform: uppercase;
-    
-    
 
+    text-transform:;
+    
    
   }
 
@@ -96,30 +97,30 @@ ul {
     margin: 0;
 }
 
+/*-----------------Footer content---*/
 
 
-
-.footer-box {
+#footer-container {
     position: fixed;
     bottom: 0;
     width: 100%;
     background-image: url(/assets/images/water-color.jpg);
-     position:;
      background-attachment: fixed;
      background-size: cover;
      background-repeat: no-repeat;
      background-position: center;
     text-align: center;
     height: 10%;
+}
 
-    
-}
-.active {
-  
-    background-color: #ca85d8;
-}
  
-#footer-container {
+.footer-box  {
     
-    
+    font-weight: bold;
+    font-size: medium;
+    color:   #5c0c6c;
+}
+
+i {
+    font-size: x-large;
 }
