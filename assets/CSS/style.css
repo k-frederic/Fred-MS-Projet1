@@ -85,7 +85,9 @@
     position: relative;
     border-radius: 20%;
     z-index: 0;
-
+    padding: 4rem;
+    padding-bottom: 6rem;
+    font-weight: 500;
     background-attachment: fixed;
     background-size: cover;
    
@@ -106,6 +108,19 @@
     background-position: center;
 }
 
+
+#founder-box , #centre-box {
+    height: auto;
+    width: auto;
+    background-image: url(/assets/images/water-color.jpg);
+    background-size: cover;
+    position: relative ;
+    border-radius: 20%;
+    z-index: 0;
+    font-weight: 500;
+    padding: 2rem;
+}
+
 #therapy {
     height: 20rem;
     width: 27rem;
@@ -117,18 +132,24 @@
     
 }
 
+.animation {
+    height: 10rem;
+    width: 27rem;
+    background-image: url(/assets/images/abstract-background-with-ink.jpg);
+    background-size: cover;
+    position: relative;
+    border-radius: 40%;
+    opacity: 0.1;
+    
+}
+
 ul {
     list-style-type: none;
     padding: 0;
     margin: 0;
 }
 
-.p-scroll {
-    position: ;
-    overflow: ;
-    
 
-}
 
 /*---------- content---*/
 
@@ -152,10 +173,11 @@ ul {
     
     font-weight: bold;
     font-size: medium;
-    color:   #5c0c6c;
+    color:   #fff;
     
 }
 
 i {
     font-size: x-large;
+    color:  #6b0981;
 }
