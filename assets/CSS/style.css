@@ -1,8 +1,9 @@
 
-
+@import url('https://fonts.googleapis.com/css2?family=GFS+Didot&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&display=swap');
+ 
    header {
-    background-image: url(/assets/images/studio-background.jpg);
-    color:  #5c0c6c;
+     background-image: url(/assets/images/studio-background.jpg);
      background-attachment: fixed;
      background-size: cover;
      background-repeat: no-repeat;
@@ -10,13 +11,13 @@
      position: fixed;
      z-index: 1;
      height: 150px;
-
+     font-family: 'Fredericka the Great', 'cursive' ; 
+     color: #a326bc; 
+    
   }
 
   #nav-links .active {
     background-color: #a326bc;
-    font-weight: bold;
-    font-size: medium;
   
   }
 
@@ -34,10 +35,7 @@
    top: 50px;
   }
 /*-----------------Main content---*/
-  article {
-    color:  #5c0c6c;
-    padding-top: 200px;
-  }
+ 
 
    body {
     background-image: url(/assets/images/abstract-background-pic.jpg);
@@ -50,6 +48,18 @@
     position: relative;
     */
    
+  }
+
+  article {
+    color:  #5c0c6c;
+    padding-top: 200px;
+    font-family: 'GFS Didot', serif ;
+    font-size: 22px;
+  }
+
+  h2 {
+    font-family: 'Fredericka the Great', 'cursive' ; 
+    color: #a326bc; 
   }
 
 #worship {
@@ -132,15 +142,27 @@
     
 }
 
+.locations {
+    height: 20rem;
+    width: 27rem;
+    background-image: url(/assets/images/water-color.jpg);
+    background-size: cover;
+    position: relative;
+    border-radius: 20%;
+    z-index: 0;
+    
+}
+
 .animation {
     height: 10rem;
     width: 27rem;
-    background-image: url(/assets/images/abstract-background-with-ink.jpg);
+    top: 5rem;
     background-size: cover;
     position: relative;
     border-radius: 40%;
-    opacity: 0.1;
-    
+    text-transform: uppercase;
+    font-family: 'Fredericka the Great', 'cursive' ;
+    color:  #5c0c6c; 
 }
 
 ul {
@@ -169,15 +191,13 @@ ul {
 }
 
  
-.footer-box  {
-    
-    font-weight: bold;
-    font-size: medium;
-    color:   #fff;
-    
+.footer-box  { 
+    font-size: large;
+    color:  #fff; 
+    font-family: 'Fredericka the Great', 'cursive' ; 
 }
 
 i {
     font-size: x-large;
-    color:  #6b0981;
+    color: #fff;
 }
