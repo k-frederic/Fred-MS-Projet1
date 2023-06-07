@@ -25,9 +25,13 @@
     color: blue;
   }
 
+  .active-page {
+    border: 2px solid blue;
+  }
   img {
     position: inherit;
     top: 2%;
+    opacity: 0.5;
   }
 
   .nav {
@@ -57,10 +61,6 @@
     font-size: 22px;
   }
 
-  h2 {
-    font-family: 'Fredericka the Great', 'cursive' ; 
-    color: #a326bc; 
-  }
 
 #worship {
     height: 20rem;
