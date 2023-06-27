@@ -1,7 +1,10 @@
 
 @import url('https://fonts.googleapis.com/css2?family=GFS+Didot&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&display=swap');
- 
+
+
+/*---Header Content----------*/
+
    header {
      background-image: url(/assets/images/studio-background.jpg);
      background-attachment: fixed;
@@ -10,7 +13,7 @@
      background-position: center;
      position: fixed;
      z-index: 1;
-     height: 150px;
+     height: 110px;
      font-family: 'Fredericka the Great', 'cursive' ; 
      color: #a326bc; 
     
@@ -33,12 +36,60 @@
     position: inherit;
     top: 2%;
     opacity: 0.5;
+    
   }
 
   .nav {
-   position: relative;
-   top: 50px;
+   position: relative; 
+   top: 10px;
   }
+
+  
+
+/*------Mobile Nav-Menu Button------*/
+
+.dropbtn {
+    background-color:  #a326bc;
+    color: white;
+    padding: 8px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+
+  }
+  
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  .dropdown-content a {
+    color:#a326bc;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  .dropdown-content a:hover {background-color: #f1f1f1}
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  
+  .dropdown:hover .dropbtn {
+    background-color: #5c0c6c;
+  }
+
+
 /*-----------------Main content---*/
  
 
@@ -48,10 +99,6 @@
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    
-    /*
-    position: relative;
-    */
    
   }
 
@@ -173,7 +220,7 @@ ul {
 
 
 
-/*---------- content---*/
+/*----------Footer content---*/
 
 
 #footer-container {
@@ -203,46 +250,3 @@ i {
 }
 
 
-
-
-
-
-.dropbtn {
-    background-color: #4CAF50;
-    color: white;
-    padding: 16px;
-    font-size: 16px;
-    border: none;
-    cursor: pointer;
-  }
-  
-  .dropdown {
-    position: relative;
-    display: inline-block;
-  }
-  
-  .dropdown-content {
-    display: none;
-    position: absolute;
-    background-color: #f9f9f9;
-    min-width: 160px;
-    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-    z-index: 1;
-  }
-  
-  .dropdown-content a {
-    color: black;
-    padding: 12px 16px;
-    text-decoration: none;
-    display: block;
-  }
-  
-  .dropdown-content a:hover {background-color: #f1f1f1}
-  
-  .dropdown:hover .dropdown-content {
-    display: block;
-  }
-  
-  .dropdown:hover .dropbtn {
-    background-color: #3e8e41;
-  }
