@@ -235,18 +235,18 @@ ul {
      background-position: center;
     text-align: center;
     height: 7%;
-    padding-top: 10px;
+    padding-top: 3px;
 }
 
  
 .footer-box  { 
-    font-size: large;
+    font-size: medium;
     color:  #fff; 
     font-family: 'Fredericka the Great', 'cursive' ; 
 }
 
 i {
-    font-size: x-large;
+    font-size: medium;
     color: #fff;
 }
 
