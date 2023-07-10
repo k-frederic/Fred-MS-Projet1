@@ -47,7 +47,7 @@
 
   
 
-/*------Mobile Nav-Menu Button------*/
+/*------Mobile Nav-Menu Button "This code was copied from w3schools.com website" ------*/
 
 .dropbtn {
     background-color:  #a326bc;
@@ -110,31 +110,38 @@
     font-size: 20px;
   }
 
-
-#worship {
-    height: 25rem;
-    width: 27rem;
-    background-image: url(/assets/images/water-color.jpg);
-    background-size: cover;
-    position: relative;
-   
-    border-radius: 20%;
-    z-index: 0;
-
-
-    
-}
-
-#who-we-are {
-    height: 25rem;
+  #who-we-are {
+    height: 32rem;
     width: 27rem;
     background-image: url(/assets/images/water-color.jpg);
     background-size: cover;
     position: relative ;
     border-radius: 20%;
     z-index: 0;
-    
+}
 
+
+#worship {
+    height: 20rem;
+    width: 27rem;
+    background-image: url(/assets/images/water-color.jpg);
+    background-size: cover;
+    position: relative;
+   
+    border-radius: 30%;
+    z-index: 0;
+    
+}
+
+#therapy {
+    height: 20rem;
+    width: 27rem;
+    background-image: url(/assets/images/water-color.jpg);
+    background-size: cover;
+    position: relative;
+    border-radius: 30%;
+    z-index: 0;
+    
 }
 
 #blog {
@@ -177,17 +184,6 @@
     z-index: 0;
     font-weight: 500;
     padding: 2rem;
-}
-
-#therapy {
-    height: 25rem;
-    width: 27rem;
-    background-image: url(/assets/images/water-color.jpg);
-    background-size: cover;
-    position: relative;
-    border-radius: 20%;
-    z-index: 0;
-    
 }
 
 .locations {
