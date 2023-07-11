@@ -166,7 +166,7 @@ The Basic structure of the website was created by using:
 
 - PC Mac screen: 
 
- ![wireframe](assets/images/Wf1.jpg "PC  and phone wireframe")
+ ![wireframe](Wf1.jpg)
 
  ![wireframe](assets/images/Wf2.jpg "PC  and phone wireframe")
 
