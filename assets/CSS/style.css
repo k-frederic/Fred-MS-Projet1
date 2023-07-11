@@ -197,6 +197,18 @@
     
 }
 
+.get-in-touch {
+
+    height: 20rem;
+    width: 27rem;
+    background-image: url(/assets/images/water-color.jpg);
+    background-size: cover;
+    position: relative;
+    border-radius: 20%;
+    z-index: 0;
+    
+}
+
 .animation {
     height: 10rem;
     width: 27rem;
@@ -215,7 +227,9 @@ ul {
     margin: 0;
 }
 
-
+.fontWeight {
+    font-weight: bold;
+}
 
 /*----------Footer content---*/
 
