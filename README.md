@@ -62,6 +62,32 @@
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
+- [content](#content)
+  * [The Reason Why](#the-reason-why)
+  * [Objectives to achieve](#objectives-to-achieve)
+  * [(UX) User Experience:](#-ux--user-experience-)
+    + [User Stories](#user-stories)
+      - [First-time Users Goals:](#first-time-users-goals-)
+      - [Returning Users Goals:](#returning-users-goals-)
+      - [Website Owner Goals:](#website-owner-goals-)
+  * [**THE 5 PLANES**](#--the-5-planes--)
+    + [**Strategy**](#--strategy--)
+  * [Design:](#design-)
+    + [Theme and Colour Scheme](#theme-and-colour-scheme)
+      - [Colour By colour:](#colour-by-colour-)
+    + [Design Brief:](#design-brief-)
+  * [Wireframes](#wireframes)
+  * [Existing Features:](#existing-features-)
+  * [Features left to be added](#features-left-to-be-added)
+  * [Testing](#testing)
+    + [Validator Testing](#validator-testing)
+    + [Unfixed Bugs](#unfixed-bugs)
+  * [Deployment](#deployment)
+  * [Credits](#credits)
+    + [Content](#content)
+    + [Media](#media)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 
 # content 
@@ -166,6 +192,7 @@ The Basic structure of the website was created by using:
 
 - PC Mac screen: 
 
+
  ![wireframe](assets/images/Wf1.jpg "PC  and phone wireframe")
 
  ![wireframe](assets/images/Wf2.jpg "PC  and phone wireframe")
@@ -225,6 +252,9 @@ The Basic structure of the website was created by using:
    - Mayaville
    - Pnrville
    - Dolcity
+- __Get-in-touch__
+   - Open times
+   - Contact details
 
 - __Footer__
 
@@ -239,13 +269,37 @@ The Basic structure of the website was created by using:
   - Donation button
   - Advertisement window
  
+## Code
 
+- __Header Section__
+    * Bootstrap principal was used to create this section [Bootstrap](https://getbootstrap.com/)
+    * CSS code principal learned from codeinstitute courses used to support Bootstrap codes   
+
+- __Navigation buttons for Medium and large viewport__
+    * Bootstrap principal was used to create this section [Bootstrap](https://getbootstrap.com/)
+    * CSS code principles learned from codeinstitute courses have been used to support Bootstrap principles   
+
+
+
+- __Navigation for small viewport__
+    *  The mobile navigation menu-button is from the code template on website"[w3schools](https://www.w3schools.com/css/default.asp)
+schools
+- __Content Section__
+    * Bootstrap principles have been used to create this section [Bootstrap](https://getbootstrap.com/)
+    * CSS code structure used was learned during "coders coffeehouse project" as part of codeinstitute courses to support Bootstrap principles
+
+- __Footer Section__
+    * Bootstrap principles have been used to create this section [Bootstrap](https://getbootstrap.com/)
+    * CSS code structure used was learned during "coders coffeehouse project" as part of codeinstitute courses to support Bootstrap principles
  
 ## Testing 
 
 In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 
 In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
+
+[](https://placeit.net/d35f44a60c08a1/)
+
 
 You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
 
