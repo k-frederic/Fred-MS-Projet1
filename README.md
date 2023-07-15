@@ -193,22 +193,14 @@ The Basic structure of the website was created by using:
 - PC Mac screen: 
 
 
- ![wireframe](assets/images/Wf1.jpg "PC  and phone wireframe")
+ ![wireframe](assets/images/Wf1.jpg "PC  and phone wireframe")   ![wireframe](assets/images/Wf2.jpg "PC  and phone wireframe")
 
- ![wireframe](assets/images/Wf2.jpg "PC  and phone wireframe")
+ ![wireframe](assets/images/Wf3.jpg "PC  and phone wireframe")   ![wireframe](assets/images/Wf4.jpg "PC  and phone wireframe")
 
- ![wireframe](assets/images/Wf3.jpg "PC  and phone wireframe")
+ ![wireframe](assets/images/Wf5.jpg "PC  and phone wireframe")   ![wireframe](assets/images/Wf6.jpg "PC  and phone wireframe")
 
- ![wireframe](assets/images/Wf4.jpg "PC  and phone wireframe")
+ ![wireframe](assets/images/Wf7.jpg "PC  and phone wireframe")   ![wireframe](assets/images/Wf8.jpg "PC  and phone wireframe")
 
- ![wireframe](assets/images/Wf5.jpg "PC  and phone wireframe")
-
- ![wireframe](assets/images/Wf6.jpg "PC  and phone wireframe")
-
- ![wireframe](assets/images/Wf7.jpg "PC  and phone wireframe")
-
- ![wireframe](assets/images/Wf8.jpg "PC  and phone wireframe")
- 
 
 [top](#content)
 
@@ -294,16 +286,21 @@ schools
  
 ## Testing 
 
+Each single page on this website has been tested to make sure codes follow rules and principle accordingly.
+
+The method used to complete each test is direct input, which consist of copying the entire code of the web-page, pasting it into the validator website, and run the check.
+
+
+
+
+
+
+
 In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 
 In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
 
-[](https://placeit.net/d35f44a60c08a1/)
-
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
+[placeit](https://placeit.net/d35f44a60c08a1/)
 
 
 ### Validator Testing 
@@ -311,7 +308,13 @@ If this section grows too long, you may want to split it off into a separate fil
 - HTML
   - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
 - CSS
-  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
+  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/)
+
+### Errors  
+
+### Results after correction
+  
+### Bugs
 
 ### Unfixed Bugs
 
