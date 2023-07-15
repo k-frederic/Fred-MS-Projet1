@@ -3,8 +3,6 @@
 # WORSHIP CENTRE
 ## 
 
-![Responsive Mock ups](#)
-
 
 ## Table of Content
 
@@ -89,6 +87,12 @@
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
+
+
+
+
+![Responsive Mock ups](/assets/images/Mockups/smartmockups_Apple.png)
+![Responsive Mock ups](/assets/images/Mockups/smartmockups_Windows.png)
 
 # content 
 
