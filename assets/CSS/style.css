@@ -34,7 +34,7 @@
   }
   img {
     position: inherit;
-    top: 2%;
+    top: 1%;
     opacity: 0.5;
     
   }
@@ -246,7 +246,7 @@ ul {
      background-repeat: no-repeat;
      background-position: center;
     text-align: center;
-    height: 7%;
+    height: 5%;
     padding-top: 3px;
 }
 
