@@ -196,6 +196,10 @@ The Basic structure of the website was created by using:
 
 - PC Mac screen: 
 
+<<<<<<< HEAD
+=======
+ ![wireframe](Wf1.jpg)
+>>>>>>> 6c3fb7e5fbc9bcbfd7f5f032091d54613739cea1
 
  ![wireframe](assets/images/Wf1.jpg "PC  and phone wireframe")   ![wireframe](assets/images/Wf2.jpg "PC  and phone wireframe")
 
