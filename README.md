@@ -304,9 +304,6 @@ The method used to complete each test is direct input, which consist of copying 
 
 
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
-
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
 
 [placeit](https://placeit.net/d35f44a60c08a1/)
 
@@ -325,8 +322,7 @@ In addition, you should mention in this section how your project looks and works
 ### Bugs
 
 ### Unfixed Bugs
-
-You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed. 
+ 
 
 ## Deployment
 
