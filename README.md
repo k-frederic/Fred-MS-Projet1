@@ -94,6 +94,11 @@ g
 ![Responsive Mock ups](/assets/images/Mockups/smartmockups_Apple.png)
 ![Responsive Mock ups](/assets/images/Mockups/smartmockups_Windows.png)
 
+
+
+[placeit](https://placeit.net/d35f44a60c08a1/)
+
+
 # content 
 
 - ## The Reason Why
@@ -280,22 +285,28 @@ The Basic structure of the website was created by using:
   - Membership Suscription page
   - Donation button
   - Advertisement window
- 
-## Code
+  
+## Credits 
+
+### Code
 
 - __Header Section__
     * Bootstrap principal was used to create this section [Bootstrap](https://getbootstrap.com/)
     * CSS code principal learned from codeinstitute courses used to support Bootstrap codes   
 
 - __Navigation buttons for Medium and large viewport__
-    * Bootstrap principal was used to create this section [Bootstrap](https://getbootstrap.com/)
-    * CSS code principles learned from codeinstitute courses have been used to support Bootstrap principles   
+
+   - Large viewport Navigation Menu, this code was copied from [getbootstrap.com](https://getbootstrap.com/docs/4.5/components/navs/#fill-and-justify)
+   - CSS code principles learned from codeinstitute courses have been used to support Bootstrap principles   
 
 
 
 - __Navigation for small viewport__
-    *  The mobile navigation menu-button is from the code template on website"[w3schools](https://www.w3schools.com/css/default.asp)
-schools
+
+   - Mobile Nav-Menu Button, this code was copied from [w3schools.com](https://www.w3schools.com/howto/howto_js_mobile_navbar.asp)
+
+
+
 - __Content Section__
     * Bootstrap principles have been used to create this section [Bootstrap](https://getbootstrap.com/)
     * CSS code structure used was learned during "coders coffeehouse project" as part of codeinstitute courses to support Bootstrap principles
@@ -312,14 +323,6 @@ The method used to complete each test is direct input, which consist of copying 
 
 
 
-
-
-
-
-
-[placeit](https://placeit.net/d35f44a60c08a1/)
-
-
 ### Validator Testing 
 
 - HTML
@@ -329,9 +332,21 @@ The method used to complete each test is direct input, which consist of copying 
 
 ### Errors  
 
+- Some errors were found on my codes as the screenshot illustrates it.
+- ![test screenshot](/assets/images/Validator%20Test%20/History%20page%20errors.png "Test errors")
+- ![test screenshot](/assets/images/Validator%20Test%20/Teaching%20page%20errors.png "Test errors") ![test screenshot](/assets/images/Validator%20Test%20/Locations%20page%20errors.png "Test errors")
+
+
 ### Results after correction
-  
+
+ - Corrections being made, run some checks again no more error were found as the screenshot shows it 
+ -  ![Results screenshot](/assets/images/Validator%20Test%20/Home%20page%20test.png "Test errors")
+  ![test screenshot](/assets/images/Validator%20Test%20/history%20page%20correction%20results%20.png "Test errors")
+   ![test screenshot](/assets/images/Validator%20Test%20/Teaching%20page%20correction%20results%20.png "Test errors")
+    ![test screenshot](/assets/images/Validator%20Test%20/Locations%20page%20correction%20results%20.png "Test errors")
 ### Bugs
+- I came accross an issue that was restricting me to push my to github repository as the screenshot shows it
+-  ![Bug screenshot](/assets/images/Bugs/2023-07-16%20(1).png "codes not pushed")
 
 ### Unfixed Bugs
  
@@ -340,36 +355,15 @@ The method used to complete each test is direct input, which consist of copying 
 
 This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub) 
 
-- The site was deployed to GitHub pages. The steps to deploy are as follows: 
-  - In the GitHub repository, navigate to the Settings tab 
-  - From the source section drop-down menu, select the Master Branch
-  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
-
-The live link can be found here - https://code-institute-org.github.io/love-running-2.0/index.html 
-
-
-## Credits 
-
-In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism. 
-
-You can break the credits section up into Content and Media, depending on what you have included in your project. 
-
-- __Code origins__
-
-- __Media Origins__
-
-- __Wireframes__
 
 ### Content 
 
-- The text for the Home page was taken from Wikipedia Article A
-- Instructions on how to implement form validation on the Sign Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
-- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+- The text on the blog section was taken from [thegospelcoalition.org](https://www.thegospelcoalition.org/essay/biblical-theology/)
+- The fonts for texts charaters are from [googel fonts](https://fonts.google.com/), both chosen ones are: "GFS Didot" and "Fredericka the Great"
+- The icons in the footer and conference section were taken from [Font Awesome](https://fontawesome.com/)
 
 ### Media
 
-- The photos used on the home and sign up page are from This Open Source site
-- The images used for the gallery page were taken from this other open source site
+- The Pictures used as background images on all sections of the website were taken from [freepik.com](https://www.freepik.com/free-photos-vectors/bright-purple/3)
 
 
-Congratulations on completing your Readme, you have made another big stride in the direction of being a developer! 
