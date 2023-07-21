@@ -98,13 +98,13 @@ g
 
 - ## The Reason Why
 
-This website informs users about different activities that take place in this religious centre called " Worship Centre".
-Also, the website provide people with access to spiritual teachings through a blog section and conferences links.
+This website informs users about different activities that take place in this religious centre named " Worship Centre".
+Also, the website provide people with access to spiritual or religious teachings or courses through a blog section and conferences links.
 
 - ## Objectives to achieve
 
 + Make the Worship centre to be known to a very large number of people
-+ Provide people with access to teachings of the worship centre
++ Provide people with access to teachings or courses of the worship centre
 + Reach out potential members worldwide
  
 
@@ -232,35 +232,47 @@ The Basic structure of the website was created by using:
 
 - __Home page (About us)__
    
-   - Who we are ?
-   - Worship sessions
-   - Theurapy sessions
+   - Who-we-are section provides an overview about the community that website is about  
+
+   - Worship-services section gives details of the weekly scheddule of differents activities
+
+   - Theurapy-services section share the information about Theurapeutic activities conducted in Worship centre 
 
 - __Teachings page (Our teachings)__
 
-   - Conferences
-   - Blog
+   - Conferences section gives information about monthly conferences as schedduled on youTube and shares its link 
+
+   - Blog is the section where, time to time, different topics are shared in writing as spiritual teachings or religious courses 
 
 - __History page (The history of the centre)__
 
-   - Founder history
-   - Centre history
+   - Founder-history section introduces briefly to people the founder character 
+     
+   - Centre-history section shares the history of the worship centre 
 
 - __Locations (Where are we located)__
 
-   - Bzville
-   - Mayaville
-   - Pnrville
-   - Dolcity
+   - Bzville section shares the address of one the worship centre (Bzville is one the cities where the worship centre are located)
+
+   - Mayaville section shares the address of one the worship centre (Mayaville is one the cities where the worship centre are located)
+
+
+   - Pnrville section shares the address of one the worship centre (Pnrville is one the cities where the worship centre are located)
+
+
+   - Dolcity section shares the address of one the worship centre (Dolcity is one the cities where the worship centre are located)
+
+
 - __Get-in-touch__
-   - Open times
-   - Contact details
+   - Open-times section gives details of the daily opening time
+
+   - Contact-details section shares all existing communication means that can be used get in touch with the worship centre
 
 - __Footer__
 
-   - Contact link
-   - Youtube link
-   - Facebook link
+   - Contact is the link that takes you to the get-in-touch page 
+   - Youtube is the link that takes you to the youTube chanel of the Worship centre
+   - Facebook is the link that takes you to the facebook page of the Worship centre
 
    
 ## Features left to be added
