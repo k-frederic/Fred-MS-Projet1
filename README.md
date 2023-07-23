@@ -288,8 +288,14 @@ The method used to complete each test is direct input, which consist of copying 
    ![test screenshot](/assets/images/Validator%20Test%20/Teaching%20page%20correction%20results%20.png "Test errors")
     ![test screenshot](/assets/images/Validator%20Test%20/Locations%20page%20correction%20results%20.png "Test errors")
 ### Bugs
+- __Git push error__
 - I came accross an issue that was restricting me to push my to github repository as the screenshot shows it
 -  ![Bug screenshot](/assets/images/Bugs/2023-07-16%20(1).png "codes not pushed")
+
+- __Links and Files not uploading once the site deployed__
+- I went on slack and requested help to sort out the issue
+
+
 
 ### Unfixed Bugs
  
