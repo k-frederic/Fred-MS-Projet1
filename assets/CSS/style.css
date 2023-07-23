@@ -8,9 +8,9 @@
    header {
      background-image: url(../images/abstract-background-pic.jpg);
      background-attachment: fixed;
-     background-size: cover; 
+     background-size: auto; 
      background-repeat: no-repeat;
-     background-position: center;
+     background-position: bottom;
      position: fixed;
      z-index: 1;
      height: 100px;
