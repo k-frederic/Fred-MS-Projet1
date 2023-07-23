@@ -294,6 +294,7 @@ The method used to complete each test is direct input, which consist of copying 
 
 - __Links and Files not uploading once the site deployed__
 - I went on slack and requested help to sort out the issue
+- The solution was to modify file paths from absolute to relative path
 
 
 
