@@ -1,66 +1,11 @@
 
 
 # WORSHIP CENTRE
-## 
 
 
 ## Table of Content
 
-- [The Why](#the-why)
-- [The Business Goal](#the-business-goal)
-- [(UX) User Experience:](#-ux--user-experience-)
-  * [User Stories](#user-stories)
-    + [First time Users Goals:](#first-time-users-goals-)
-    + [Returning Users Goals:](#returning-users-goals-)
-    + [Website Owner Goals:](#website-owner-goals-)
-- [**THE 5 PLANES**](#--the-5-planes--)
-
-  * [**Strategy**](#--strategy--)
-- [Design:](#design-)
-
-  * [Theme and Colour Scheme](#theme-and-colour-scheme)
-    + [Colour By colour:](#colour-by-colour-)
-  * [Design Brief:](#design-brief-)
-- [Wireframes](#wireframes)
-
-- [Features](#features)
-
-    + [Existing Features:](#existing-features-)
-      - [Navigation bar:](#navigation-bar-)
-      - [Courses display list:](#courses-display-list-)
-      - [Course detail:](#course-detail-)
-
-      
-      - [Footer.](#footer)
-g
-      - [Download the content](#download-the-content)
-    
-    
-
-- [**TESTING**](#--testing--)
-    + [**HTML Testing**](#--html-testing--)
-    + [**CSS Testing**](#--css-testing--)
-
-    + [**User Stories Testing**](#--user-stories-testing--)
-    + [**Cross Platfrom Testing**](#--cross-platfrom-testing--)
-    + [CRUD (create, read, update, delete) TESTING](#crud--create--read--update--delete--testing)
-
-  * [Lighthouse testing](#lighthouse-testing)
-  * [Responsive Testing](#responsive-testing)
-
-  * [Bugs and Fixes](#bugs-and-fixes)
-  * [Remainding Errors in the Google Developers Tool Console:](#remainding-errors-in-the-google-developers-tool-console-)
-- [**DEPLOYMENT**](#--deployment--)
-  * [Making a local clone](#making-a-local-clone)
-  * [Working with a local clone](#working-with-a-local-clone)
-- [**CREDITS**](#--credits--)
-  * [References](#references)
-  * [Acknowledgement](#acknowledgement)
-- [**DISCLAIMER**](#--disclaimer--)
-
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
-- [content](#content)
+    - [content](#content)
   * [The Reason Why](#the-reason-why)
   * [Objectives to achieve](#objectives-to-achieve)
   * [(UX) User Experience:](#-ux--user-experience-)
@@ -75,26 +20,26 @@ g
       - [Colour By colour:](#colour-by-colour-)
     + [Design Brief:](#design-brief-)
   * [Wireframes](#wireframes)
+- [<<<<<<< HEAD](#--------head)
   * [Existing Features:](#existing-features-)
   * [Features left to be added](#features-left-to-be-added)
+    + [Code](#code)
   * [Testing](#testing)
     + [Validator Testing](#validator-testing)
+    + [Errors](#errors)
+    + [Results after correction](#results-after-correction)
+    + [Bugs](#bugs)
     + [Unfixed Bugs](#unfixed-bugs)
   * [Deployment](#deployment)
-  * [Credits](#credits)
     + [Content](#content)
     + [Media](#media)
+  * [Credits](#credits)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 
-
-
-
 ![Responsive Mock ups](/assets/images/Mockups/smartmockups_Apple.png)
 ![Responsive Mock ups](/assets/images/Mockups/smartmockups_Windows.png)
-
-
 
 [placeit](https://placeit.net/d35f44a60c08a1/)
 
@@ -233,7 +178,6 @@ The Basic structure of the website was created by using:
     - History
     - Locations
 
-    ![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
 
 - __Home page (About us)__
    
@@ -286,7 +230,6 @@ The Basic structure of the website was created by using:
   - Donation button
   - Advertisement window
   
-## Credits 
 
 ### Code
 
@@ -353,7 +296,7 @@ The method used to complete each test is direct input, which consist of copying 
 
 ## Deployment
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub) 
+Description of the process to deploy the project..
 
 
 ### Content 
@@ -366,4 +309,5 @@ This section should describe the process you went through to deploy the project 
 
 - The Pictures used as background images on all sections of the website were taken from [freepik.com](https://www.freepik.com/free-photos-vectors/bright-purple/3)
 
+## Credits 
 
