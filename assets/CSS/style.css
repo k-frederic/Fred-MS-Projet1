@@ -6,10 +6,11 @@
 /*---Header Content----------*/
 
    header {
-     background-image: url(../images/studio-background.jpg);
+     background-image: url(../images/abstract-background-pic.jpg);
+     background-size: auto;
      background-attachment: fixed;
-     background-size: cover;
-     background-repeat: no-repeat;
+     /* background-size: cover; 
+     background-repeat: no-repeat;*/
      background-position: center;
      position: fixed;
      z-index: 1;
@@ -115,7 +116,7 @@
   #who-we-are {
     height: 32rem;
     width: 27rem;
-    background-image: url(../images/water-color.jpg);
+    background-image: url(../images/studio-background.jpg);
     background-size: cover;
     position: relative ;
     border-radius: 20%;
@@ -126,7 +127,7 @@
 #worship {
     height: 20rem;
     width: 27rem;
-    background-image: url(../images/water-color.jpg);
+    background-image: url(../images/studio-background.jpg);
     background-size: cover;
     position: relative;
    
@@ -138,7 +139,7 @@
 #therapy {
     height: 20rem;
     width: 27rem;
-    background-image: url(../images/water-color.jpg);
+    background-image: url(../images/studio-background.jpg);
     background-size: cover;
     position: relative;
     border-radius: 30%;
@@ -149,7 +150,7 @@
 #blog {
     height: auto;
     width: auto;
-    background-image: url(../images/water-color.jpg);
+    background-image: url(../images/studio-background.jpg);
     background-size: cover;
     position: relative;
     border-radius: 20%;
@@ -179,7 +180,7 @@
 #founder-box , #centre-box {
     height: auto;
     width: auto;
-    background-image: url(../images/water-color.jpg);
+    background-image: url(../images/studio-background.jpg);
     background-size: cover; 
     position: relative ;
     border-radius: 20%;
@@ -191,7 +192,7 @@
 .locations {
     height: 25rem;
     width: 27rem;
-    background-image: url(../images/water-color.jpg);
+    background-image: url(../images/studio-background.jpg);
     background-size: cover;
     position: relative;
     border-radius: 20%;
@@ -203,7 +204,7 @@
 
     height: 20rem;
     width: 27rem;
-    background-image: url(../images/water-color.jpg);
+    background-image: url(../images/studio-background.jpg);
     background-size: cover;
     position: relative;
     border-radius: 20%;
