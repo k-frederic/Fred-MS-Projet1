@@ -6,7 +6,7 @@
 /*---Header Content----------*/
 
    header {
-     background-image: url(/assets/images/studio-background.jpg);
+     background-image: url(../images/studio-background.jpg);
      background-attachment: fixed;
      background-size: cover;
      background-repeat: no-repeat;
@@ -97,7 +97,7 @@
  
 
    body {
-    background-image: url(/assets/images/abstract-background-pic.jpg);
+    background-image: url(../images/abstract-background-pic.jpg);
     background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat;
@@ -115,7 +115,7 @@
   #who-we-are {
     height: 32rem;
     width: 27rem;
-    background-image: url(/assets/images/water-color.jpg);
+    background-image: url(../images/water-color.jpg);
     background-size: cover;
     position: relative ;
     border-radius: 20%;
@@ -126,7 +126,7 @@
 #worship {
     height: 20rem;
     width: 27rem;
-    background-image: url(/assets/images/water-color.jpg);
+    background-image: url(../images/water-color.jpg);
     background-size: cover;
     position: relative;
    
@@ -138,7 +138,7 @@
 #therapy {
     height: 20rem;
     width: 27rem;
-    background-image: url(/assets/images/water-color.jpg);
+    background-image: url(../images/water-color.jpg);
     background-size: cover;
     position: relative;
     border-radius: 30%;
@@ -149,7 +149,7 @@
 #blog {
     height: auto;
     width: auto;
-    background-image: url(/assets/images/water-color.jpg);
+    background-image: url(../images/water-color.jpg);
     background-size: cover;
     position: relative;
     border-radius: 20%;
@@ -167,7 +167,7 @@
 #conferences {
     height: auto;
     width: auto;
-    background-image: url(/assets/images/water-color.jpg);
+    background-image: url(../images/water-color.jpg);
     background-size: cover;
     position: relative;
     border-radius: 30%;
@@ -179,7 +179,7 @@
 #founder-box , #centre-box {
     height: auto;
     width: auto;
-    background-image: url(/assets/images/water-color.jpg);
+    background-image: url(../images/water-color.jpg);
     background-size: cover; 
     position: relative ;
     border-radius: 20%;
@@ -191,7 +191,7 @@
 .locations {
     height: 25rem;
     width: 27rem;
-    background-image: url(/assets/images/water-color.jpg);
+    background-image: url(../images/water-color.jpg);
     background-size: cover;
     position: relative;
     border-radius: 20%;
@@ -203,7 +203,7 @@
 
     height: 20rem;
     width: 27rem;
-    background-image: url(/assets/images/water-color.jpg);
+    background-image: url(../images/water-color.jpg);
     background-size: cover;
     position: relative;
     border-radius: 20%;
@@ -240,7 +240,7 @@ ul {
     position: fixed;
     bottom: 0;
     width: 100%;
-    background-image: url(/assets/images/water-color.jpg);
+    background-image: url(../images/water-color.jpg);
      background-attachment: fixed;
      background-size: cover;
      background-repeat: no-repeat;
