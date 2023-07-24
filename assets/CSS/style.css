@@ -8,7 +8,7 @@
    header {
      background-image: url(../images/abstract-background-pic.jpg);
      background-attachment: fixed;
-     background-size: auto; 
+     /* background-size: cover; */
      background-repeat: no-repeat;
      background-position: bottom;
      position: fixed;
