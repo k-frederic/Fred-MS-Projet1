@@ -127,16 +127,14 @@ A negligible quantity of blue is used to emphesise the contraste when a button o
 
 - ### Design Brief:
 
-+ Colour:
+- Colour: The colour of theme of this website is based on the colour that the centre already uses for the decoration and the painting of their facilities. 
 
-![Colour](#"Colour Scheme")
+![Colour](https://k-frederic.github.io/Fred-MS-Projet1/  "Colour Scheme")
 
-- Links : 
+- Links : Those links lead to social media pages and chanels of the centre (As the project is not yet completed those links open only the home pages of the targeted social media )
 
-+ Background:
+- Background: The background is simply a picture of clouds which blends with variants of the purple colour.
 
-
-[top](#content)
 
 - ## Wireframes
 
@@ -160,24 +158,22 @@ The Basic structure of the website was created by using:
  ![wireframe](assets/images/Wf7.jpg "PC  and phone wireframe")   ![wireframe](assets/images/Wf8.jpg "PC  and phone wireframe")
 
 
-[top](#content)
-
-
-
-
 ## Existing Features:
 
 - __Title__
+  - WORSHIP CENTRE
 
 - __Logo__ 
+  - A sphere that contains a picture of the shining sun light which appears only for large viewports.
 
-- __Navigation bar__
+- __Page navigation links__
 
-    - Home 
-    - Teachings
-    - History
-    - Locations
+  * The website implement two types of navigation style:
+  - A Navigation bar of with buttons (Home button, Teachings button, History button, Locations button) which appears only for large viewports.
+  - A dropdown navigation button that reveals the page links(Home, Teachings, History, Locations) which appears only for medium and small viewport. 
 
+
+## Pages and Sections
 
 - __Home page (About us)__
    
@@ -287,6 +283,7 @@ The method used to complete each test is direct input, which consist of copying 
   ![test screenshot](/assets/images/Validator%20Test%20/history%20page%20correction%20results%20.png "Test errors")
    ![test screenshot](/assets/images/Validator%20Test%20/Teaching%20page%20correction%20results%20.png "Test errors")
     ![test screenshot](/assets/images/Validator%20Test%20/Locations%20page%20correction%20results%20.png "Test errors")
+
 ### Bugs
 - __Git push error__
 - I came accross an issue that was restricting me to push my to github repository as the screenshot shows it
@@ -299,11 +296,11 @@ The method used to complete each test is direct input, which consist of copying 
 
 
 ### Unfixed Bugs
- 
+  -  Header section background not stable for small and medium viewport sizes when opening pages
 
 ## Deployment
 
-Description of the process to deploy the project..
+The website is deployed from Github platform by using
 
 
 ### Content 
