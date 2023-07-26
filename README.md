@@ -2,10 +2,32 @@
 
 # WORSHIP CENTRE
 
+# A website to promote activities and teachings of a religious centre. 
+
+## Code Institute - Milestone Project 1
+
+## HTML / BOOTSTRAP / CSS / - Full Stack Development Milestone Project 1
+
+### By Frederic Koumbou
+
+
+![Responsive Mock ups](/assets/images/Mockups/smartmockups_Apple.png)
+![Responsive Mock ups](/assets/images/Mockups/smartmockups_Windows.png)
+
+[placeit](https://placeit.net/d35f44a60c08a1/)
+
+## Live Project Link
+
+[Deployed website link ](https://k-frederic.github.io/Fred-MS-Projet1/)
+
+## Repository link
+
+[View repository on Github pages](https://github.com/k-frederic/Fred-MS-Projet1)
+
 
 ## Table of Content
 
-    - [content](#content)
+- [content](#content)
   * [The Reason Why](#the-reason-why)
   * [Objectives to achieve](#objectives-to-achieve)
   * [(UX) User Experience:](#-ux--user-experience-)
@@ -22,26 +44,22 @@
   * [Wireframes](#wireframes)
 - [<<<<<<< HEAD](#--------head)
   * [Existing Features:](#existing-features-)
+  * [Pages and Sections](#pages-and-sections)
   * [Features left to be added](#features-left-to-be-added)
-    + [Code](#code)
   * [Testing](#testing)
     + [Validator Testing](#validator-testing)
     + [Errors](#errors)
     + [Results after correction](#results-after-correction)
     + [Bugs](#bugs)
     + [Unfixed Bugs](#unfixed-bugs)
+  * [Page load analyze](#page-load-analyze)
   * [Deployment](#deployment)
-    + [Content](#content)
-    + [Media](#media)
   * [Credits](#credits)
+    + [Code](#code)
+    + [Content sources](#content-sources)
+    + [Media source](#media-source)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
-
-![Responsive Mock ups](/assets/images/Mockups/smartmockups_Apple.png)
-![Responsive Mock ups](/assets/images/Mockups/smartmockups_Windows.png)
-
-[placeit](https://placeit.net/d35f44a60c08a1/)
 
 
 # content 
@@ -63,7 +81,7 @@ Also, the website provide people with access to spiritual or religious teachings
 Users of this website can browse easily through differents features to inform themselves with as many as information made available for them. 
 
 
-- ### User Stories
+- ## User Stories
 
   - #### First-time Users Goals:
      - To use the website the easiest way possible.
@@ -82,8 +100,6 @@ Users of this website can browse easily through differents features to inform th
      - Edit information and update teachings
      - Add and Remove contents links
 
-
-[top](#content)
 
 - ## **THE 5 PLANES** 
 - ### **Strategy** 
@@ -116,7 +132,7 @@ List of purples:  #5c0c6c, #a326bc,
 List of whites: (#fff), (#f9f9f9),  (#f1f1f1), rgb(255, 255, 255)
 
 
-- #### Colour By colour: 
+- ### Colour theme: 
 
 The reason of choosing these variants of purple to be predominant for this website theme is because purple symbolises spiritual manifestations as well as conveying religious emotions.  
 
@@ -129,14 +145,14 @@ A negligible quantity of blue is used to emphesise the contraste when a button o
 
 - Colour: The colour of theme of this website is based on the colour that the centre already uses for the decoration and the painting of their facilities. 
 
-![Colour](https://k-frederic.github.io/Fred-MS-Projet1/  "Colour Scheme")
+![Colour](https://k-frederic.github.io/Fred-MS-Projet1/ "Colour Scheme")
 
 - Links : Those links lead to social media pages and chanels of the centre (As the project is not yet completed those links open only the home pages of the targeted social media )
 
 - Background: The background is simply a picture of clouds which blends with variants of the purple colour.
 
 
-- ## Wireframes
+- ### Wireframes
 
 The Basic structure of the website was created by using: 
 
@@ -160,6 +176,8 @@ The Basic structure of the website was created by using:
 
 ## Existing Features:
 
+### Header
+
 - __Title__
   - WORSHIP CENTRE
 
@@ -173,7 +191,7 @@ The Basic structure of the website was created by using:
   - A dropdown navigation button that reveals the page links(Home, Teachings, History, Locations) which appears only for medium and small viewport. 
 
 
-## Pages and Sections
+### Pages content and Sections
 
 - __Home page (About us)__
    
@@ -213,10 +231,18 @@ The Basic structure of the website was created by using:
 
    - Contact-details section shares all existing communication means that can be used get in touch with the worship centre
 
-- __Footer__
+### Footer
+
+- __Contact link__
 
    - Contact is the link that takes you to the get-in-touch page 
+
+- __Youtube link__   
+
    - Youtube is the link that takes you to the youTube chanel of the Worship centre
+
+- __Facebook__
+
    - Facebook is the link that takes you to the facebook page of the Worship centre
 
    
@@ -227,40 +253,11 @@ The Basic structure of the website was created by using:
   - Advertisement window
   
 
-### Code
-
-- __Header Section__
-    * Bootstrap principal was used to create this section [Bootstrap](https://getbootstrap.com/)
-    * CSS code principal learned from codeinstitute courses used to support Bootstrap codes   
-
-- __Navigation buttons for Medium and large viewport__
-
-   - Large viewport Navigation Menu, this code was copied from [getbootstrap.com](https://getbootstrap.com/docs/4.5/components/navs/#fill-and-justify)
-   - CSS code principles learned from codeinstitute courses have been used to support Bootstrap principles   
-
-
-
-- __Navigation for small viewport__
-
-   - Mobile Nav-Menu Button, this code was copied from [w3schools.com](https://www.w3schools.com/howto/howto_js_mobile_navbar.asp)
-
-
-
-- __Content Section__
-    * Bootstrap principles have been used to create this section [Bootstrap](https://getbootstrap.com/)
-    * CSS code structure used was learned during "coders coffeehouse project" as part of codeinstitute courses to support Bootstrap principles
-
-- __Footer Section__
-    * Bootstrap principles have been used to create this section [Bootstrap](https://getbootstrap.com/)
-    * CSS code structure used was learned during "coders coffeehouse project" as part of codeinstitute courses to support Bootstrap principles
- 
 ## Testing 
 
 Each single page on this website has been tested to make sure codes follow rules and principle accordingly.
 
 The method used to complete each test is direct input, which consist of copying the entire code of the web-page, pasting it into the validator website, and run the check.
-
-
 
 ### Validator Testing 
 
@@ -294,24 +291,79 @@ The method used to complete each test is direct input, which consist of copying 
 - The solution was to modify file paths from absolute to relative path
 
 
-
 ### Unfixed Bugs
   -  Header section background not stable for small and medium viewport sizes when opening pages
 
+## Page load analyze
+- ![Home-page lighthouse analyze ](/assets/images/Lighthouse%20Performance%20test/home%20page.png "Page load analyse")
+- ![History-page lighthouse analyze ](/assets/images/Lighthouse%20Performance%20test/History%20page.png "Page load analyse")
+- ![locations-page lighthouse analyze ](/assets/images/Lighthouse%20Performance%20test/Locations%20page.png "Page load analyse")
+- ![Teachings-page lighthouse analyze ](/assets/images/Lighthouse%20Performance%20test/Teaching%20page.png "Page load analyse")
+- ![Get-in-touch-page lighthouse analyze ](/assets/images/Lighthouse%20Performance%20test/Get-in-touch%20page.png "Page load analyse")
+
 ## Deployment
 
-The website is deployed from Github platform by using
+The website is deployed from Github platform as follow:
+* 1 Home page
+* 2 select the project repository
+* 3 Click at the latest commit check sign
+* 4 Click details
+* 5 From the left side of the page, click deploy
+* 6 Select complete job check sign 
+* 7 Copy or click on the live generated url as a link to access the website
 
 
-### Content 
+## Credits 
+
+### Acknowledgement:
+_ codeinstitute
+- Google fonts
+- Google chrome
+- Font awesome
+- freepik.com
+- w3.org
+- Bootstrap
+- w3schools.com
+- balsamiq.com
+- placeit.net
+- Github.com
+- thegospelcoalition.org
+- Ecotrust-canada
+
+### Code references
+
+- __Header Section__
+    * Bootstrap principal was used to create the header section [Bootstrap](https://getbootstrap.com/)
+    * CSS code principal learned from codeinstitute courses was used to support Bootstrap codes   
+
+- __Navigation buttons for Medium and large viewport__
+
+   - Large viewport Navigation Menu, this code was copied from [getbootstrap.com](https://getbootstrap.com/docs/4.5/components/navs/#fill-and-justify)
+   - CSS code principles learned from codeinstitute courses was used to support Bootstrap principles   
+
+- __Navigation for small viewport__
+
+   - Mobile Nav-Menu Button, this code was copied from [w3schools.com](https://www.w3schools.com/howto/howto_js_mobile_navbar.asp)
+
+- __Content Section__
+    * Bootstrap principles was used to create this section [Bootstrap](https://getbootstrap.com/)
+    * CSS code structure used was learned during "coders coffeehouse project" as part of codeinstitute courses 
+
+- __Footer Section__
+    * Bootstrap principles have been used to create this section [Bootstrap](https://getbootstrap.com/)
+    * CSS code structure used was learned during "coders coffeehouse project" as part of codeinstitute courses  
+ 
+
+### Content sources
 
 - The text on the blog section was taken from [thegospelcoalition.org](https://www.thegospelcoalition.org/essay/biblical-theology/)
 - The fonts for texts charaters are from [googel fonts](https://fonts.google.com/), both chosen ones are: "GFS Didot" and "Fredericka the Great"
 - The icons in the footer and conference section were taken from [Font Awesome](https://fontawesome.com/)
 
-### Media
+### Media source
 
 - The Pictures used as background images on all sections of the website were taken from [freepik.com](https://www.freepik.com/free-photos-vectors/bright-purple/3)
 
-## Credits 
 
+## **DISCLAIMER**
+This website was built for learning purposes only to support my coding course from Code Institute. Except those contents mentioned in CREDITS section, all contents are from my own imaginary.  No offence was intentionally made, all stories, locations and scheddules disclosed on this website are fictional. For any enquiry feel free to reach to reach out the main contact at: k-frederic@outlook.com
