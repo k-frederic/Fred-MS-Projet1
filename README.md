@@ -27,11 +27,10 @@
 
 ## Table of Content
 
-- [content](#content)
   * [The Reason Why](#the-reason-why)
   * [Objectives to achieve](#objectives-to-achieve)
   * [(UX) User Experience:](#-ux--user-experience-)
-    + [User Stories](#user-stories)
+  * [User Stories](#user-stories)
       - [First-time Users Goals:](#first-time-users-goals-)
       - [Returning Users Goals:](#returning-users-goals-)
       - [Website Owner Goals:](#website-owner-goals-)
@@ -39,12 +38,14 @@
     + [**Strategy**](#--strategy--)
   * [Design:](#design-)
     + [Theme and Colour Scheme](#theme-and-colour-scheme)
-      - [Colour By colour:](#colour-by-colour-)
+    + [Colour theme:](#colour-theme-)
     + [Design Brief:](#design-brief-)
-  * [Wireframes](#wireframes)
+    + [Wireframes](#wireframes)
 - [<<<<<<< HEAD](#--------head)
   * [Existing Features:](#existing-features-)
-  * [Pages and Sections](#pages-and-sections)
+    + [Header](#header)
+    + [Pages content and Sections](#pages-content-and-sections)
+    + [Footer](#footer)
   * [Features left to be added](#features-left-to-be-added)
   * [Testing](#testing)
     + [Validator Testing](#validator-testing)
@@ -55,14 +56,13 @@
   * [Page load analyze](#page-load-analyze)
   * [Deployment](#deployment)
   * [Credits](#credits)
-    + [Code](#code)
+    + [Acknowledgement:](#acknowledgement-)
+    + [Code references](#code-references)
     + [Content sources](#content-sources)
     + [Media source](#media-source)
+  * [**DISCLAIMER**](#--disclaimer--)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
-
-# content 
 
 - ## The Reason Why
 
