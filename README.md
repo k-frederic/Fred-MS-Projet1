@@ -143,9 +143,7 @@ A negligible quantity of blue is used to emphesise the contraste when a button o
 
 - ### Design Brief:
 
-- Colour: The colour of theme of this website is based on the colour that the centre already uses for the decoration and the painting of their facilities. 
-
-![Colour](https://k-frederic.github.io/Fred-MS-Projet1/ "Colour Scheme")
+- Colour: The theme colour of this website is based on the colour that the centre already uses for the decoration and the painting of their facilities. 
 
 - Links : Those links lead to social media pages and chanels of the centre (As the project is not yet completed those links open only the home pages of the targeted social media )
 
@@ -160,10 +158,8 @@ The Basic structure of the website was created by using:
 
 - PC Mac screen: 
 
-<<<<<<< HEAD
-=======
- ![wireframe](Wf1.jpg)
->>>>>>> 6c3fb7e5fbc9bcbfd7f5f032091d54613739cea1
+
+
 
  ![wireframe](assets/images/Wf1.jpg "PC  and phone wireframe")   ![wireframe](assets/images/Wf2.jpg "PC  and phone wireframe")
 
