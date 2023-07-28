@@ -355,6 +355,7 @@ _ codeinstitute
 - The text on the blog section was taken from [thegospelcoalition.org](https://www.thegospelcoalition.org/essay/biblical-theology/)
 - The fonts for texts charaters are from [googel fonts](https://fonts.google.com/), both chosen ones are: "GFS Didot" and "Fredericka the Great"
 - The icons in the footer and conference section were taken from [Font Awesome](https://fontawesome.com/)
+- Google location links used on the Locations-page are from Coders coffeehouse project of the code institute courses. [codeinstitute.net](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+HE101+2020/courseware/fcc67a894619420399970ae84fc4802f/994cc20b06084cbeb391e3b2506aed6f/)
 
 ### Media source
 
